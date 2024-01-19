@@ -1,6 +1,6 @@
 {
   "name": "case-converter-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Quick and simple text case conversion in the terminal",
   "bin": {
     "ccc": "bin/index.js"
