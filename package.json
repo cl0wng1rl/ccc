@@ -1,8 +1,10 @@
 {
-  "name": "csu",
+  "name": "case-converter-cli",
   "version": "0.0.0",
   "description": "A CLI tool to swap between cases",
-  "bin": "bin/index.js",
+  "bin": {
+    "ccc": "bin/index.js"
+  },
   "main": "./out/index.js",
   "files": [
     "out/**/*.js",
@@ -16,14 +18,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cl0wng1rl/csu.git"
+    "url": "git+https://github.com/cl0wng1rl/ccc.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cl0wng1rl/csu/issues"
+    "url": "https://github.com/cl0wng1rl/ccc/issues"
   },
-  "homepage": "https://github.com/cl0wng1rl/csu#readme",
+  "homepage": "https://github.com/cl0wng1rl/ccc#readme",
   "devDependencies": {
     "@types/jest": "^29.0.3",
     "jest": "^29.0.3",

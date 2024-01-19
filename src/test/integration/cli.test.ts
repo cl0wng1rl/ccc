@@ -26,7 +26,7 @@ function getTestSuiteForCase(testCase: TestCase) {
     testCase.results.forEach((result: { case: string; value: string }) => {
       it(`should correctly swap to ${result.case} case`, () => {
         // Given
-        process.argv = ["node", "csu", "-c", result.case, testCase.plain];
+        process.argv = ["node", "ccc", "-c", result.case, testCase.plain];
         // When
         main();
         // Then
