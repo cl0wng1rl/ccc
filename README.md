@@ -1,8 +1,33 @@
-# ccc [![Tests](https://github.com/cl0wng1rl/ccc/actions/workflows/tests.yml/badge.svg)](https://github.com/cl0wng1rl/ccc/actions/workflows/tests.yml) [![codecov](https://codecov.io/github/cl0wng1rl/ccc/branch/main/graph/badge.svg?token=RfkXLINOJV)](https://codecov.io/github/cl0wng1rl/ccc) ![NPM Version](https://img.shields.io/npm/v/case-converter-cli) ![npm bundle size](https://img.shields.io/bundlephobia/min/case-converter-cli) [![License](https://img.shields.io/badge/License-MIT-blue)](https://github.com/cl0wng1rl/ccc/blob/main/LICENSE)
+<div align="center">
+  <h1>ccc</h1>
+
+  <i>Quick and simple text case conversion in the terminal</i>
+
+  <a href="https://github.com/cl0wng1rl/ccc/actions/workflows/tests.yml">
+    <img src="https://github.com/cl0wng1rl/ccc/actions/workflows/tests.yml/badge.svg"/>
+  </a>
+  <a href="https://codecov.io/github/cl0wng1rl/ccc">
+    <img src="https://codecov.io/github/cl0wng1rl/ccc/branch/main/graph/badge.svg?token=RfkXLINOJV"/>
+  </a>
+  <a href="https://www.npmjs.com/package/case-converter-cli">
+    <img src="https://img.shields.io/npm/v/case-converter-cli"/>
+  </a>
+  <a href="!https://www.npmjs.com/package/case-converter-cli">
+    <img src="https://img.shields.io/bundlephobia/min/case-converter-cli"/>
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://img.shields.io/badge/language-typescript-007ACC"/>
+  </a>
+  <a href="https://github.com/cl0wng1rl/ccc/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/cl0wng1rl/ccc" />
+  </a>
+
+</div>
+
 
 ## Case Converter CLI
 
-`ccc` is a command line tool designed to make switching the case of text easy.
+`ccc` is a command line tool designed to make converting the case of text easy.
 
 ### Installation
 
