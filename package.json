@@ -2,7 +2,12 @@
   "name": "csu",
   "version": "0.0.0",
   "description": "A CLI tool to swap between cases",
-  "main": "index.js",
+  "bin": "bin/index.js",
+  "main": "./out/index.js",
+  "files": [
+    "out/**/*.js",
+    "!**/*.test.js"
+  ],
   "scripts": {
     "test": "jest --coverage",
     "app": "npm run build && npm run execute",
