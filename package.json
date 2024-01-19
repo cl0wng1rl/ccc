@@ -1,7 +1,7 @@
 {
   "name": "case-converter-cli",
   "version": "0.1.0",
-  "description": "A CLI tool to swap between cases",
+  "description": "Quick and simple text case conversion in the terminal",
   "bin": {
     "ccc": "bin/index.js"
   },
