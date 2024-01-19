@@ -1,6 +1,6 @@
 {
   "name": "case-converter-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A CLI tool to swap between cases",
   "bin": {
     "ccc": "bin/index.js"
